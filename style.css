@@ -1,0 +1,9 @@
+body{
+    height: auto;
+    width: auto;
+    background-color: black;
+}
+p{
+    color: black;
+    text-decoration: dotted;
+}
